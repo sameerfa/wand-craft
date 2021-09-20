@@ -1,5 +1,5 @@
 # Wand Craft
-Control any website using hand gestures.
+Control any website using hand gestures. Scroll up & Down.
 
 ## tarantallegra
 
