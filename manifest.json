@@ -1,0 +1,16 @@
+{
+  "short_name": "WandCraft",
+  "name": "Control any website using hand gestures. Scroll up & Down.",
+  "icons": [
+    {
+      "src": "./images/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4c346b",
+  "background_color": "#4c346b"
+}

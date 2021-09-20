@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wand-craft/static/css/main.c62d8718.chunk.css",
+    "main.js": "/wand-craft/static/js/main.ae6b580b.chunk.js",
+    "main.js.map": "/wand-craft/static/js/main.ae6b580b.chunk.js.map",
+    "runtime-main.js": "/wand-craft/static/js/runtime-main.175eff65.js",
+    "runtime-main.js.map": "/wand-craft/static/js/runtime-main.175eff65.js.map",
+    "static/js/2.64ba0b8f.chunk.js": "/wand-craft/static/js/2.64ba0b8f.chunk.js",
+    "static/js/2.64ba0b8f.chunk.js.map": "/wand-craft/static/js/2.64ba0b8f.chunk.js.map",
+    "static/js/3.db19fc69.chunk.js": "/wand-craft/static/js/3.db19fc69.chunk.js",
+    "static/js/3.db19fc69.chunk.js.map": "/wand-craft/static/js/3.db19fc69.chunk.js.map",
+    "index.html": "/wand-craft/index.html",
+    "static/css/main.c62d8718.chunk.css.map": "/wand-craft/static/css/main.c62d8718.chunk.css.map",
+    "static/js/2.64ba0b8f.chunk.js.LICENSE.txt": "/wand-craft/static/js/2.64ba0b8f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.175eff65.js",
+    "static/js/2.64ba0b8f.chunk.js",
+    "static/css/main.c62d8718.chunk.css",
+    "static/js/main.ae6b580b.chunk.js"
+  ]
+}
